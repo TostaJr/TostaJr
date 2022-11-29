@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javascript and python
 - 📫 How to reach me ...
 
+https://www.linkedin.com/in/yosimar-reyes-quiceno-tsidv/
 
 <!---
 TostaJr/TostaJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
